@@ -1,0 +1,24 @@
+Objective 2: PSEUDOCODE
+•Task 03: Create a small calculator which only does ‘+’ or ‘-’ Operations. (Hint: Take three variable inputs with one being used for the operator)
+1.	START
+2.	
+3.	// Input/Output
+4.	INPUT num1
+5.	INPUT num2
+6.	INPUT operator
+7.	
+8.	// variables and Initialization
+9.	SET sum to 0
+10.	
+11.	// Conditional Statements
+12.	IF operator = + THEN
+13.	     SET sum=num1 + num2
+14.	ELSE IF operator = - THEN
+15.	    SET sum = num1 – num2
+16.	ELSE
+17.	     PRINT “invalid”
+18.	
+19.	// Input/Output
+20.	PRINT sum
+21.	
+22.	END

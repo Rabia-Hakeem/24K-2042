@@ -1,0 +1,17 @@
+Objective 3: ALGORITHM
+•Task 03: Implement an algorithm for making a simple calculator with all the operators (+, -, *, /, %)
+1.	Ask the user to enter num1 
+2.	Ask the user to enter num2
+3.	Ask the user to enter operator
+4.	Set ans to 0
+5.	If operator = + 
+6.	     Set ans = num1 + num2
+7.	Else if operator = - 
+8.	    Set ans = num1 – num2
+9.	Else if operator = * 
+10.	    Set ans = num1 * num2
+11.	Else if operator = /
+12.	    Set ans = num1 / num2
+13.	Else if operator = %
+14.	    Set ans = (num1 / num2) * 100
+15.	Display ans
