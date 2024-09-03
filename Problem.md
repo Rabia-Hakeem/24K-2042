@@ -12,3 +12,5 @@
 9. Display ans is an odd number
 10. Else
 11. Display invalid
+
+![image](https://github.com/user-attachments/assets/2a888c09-708d-4e9a-88f4-e06abc70b6cc)
